@@ -154,8 +154,20 @@ collaboration:
 ║   — Aahan Gajera, somewhere between epochs            ║
 ╚═══════════════════════════════════════════════════════╝
 ```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:001a00&height=100&section=footer&fontColor=00ff41"/>
+## `$ shutdown --graceful`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║  [SYSTEM] Session complete. All modules loaded.                      ║
+║  [LOG]    Visitor detected — identity confirmed.                   ║
+║  [STATUS] Aahan.exe running at full capacity.                        ║
+║  [EXIT]   Thanks for visiting — let's build something intelligent.   ║
+║  $ _                                                                 ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
