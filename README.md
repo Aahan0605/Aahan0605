@@ -139,18 +139,8 @@ collaboration:
 <!-- Fix 1 — Wide Snake Animation -->
 <img src="https://raw.githubusercontent.com/Aahan0605/Aahan0605/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
-<table width="100%">
-  <tr>
-    <!-- Fix 2 — Left Hacker GIF -->
-    <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200px" style="border-radius:8px;"/>
-    </td>
-    <!-- Fix 3 — Right GitHub Stats -->
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aahan0605&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&title_color=00FF41&icon_color=00D4FF&text_color=FFFFFF" width="100%"/>
-    </td>
-  </tr>
-</table>
+<!-- Streak stats card -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aahan0605&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00D4FF&currStreakLabel=00FF41&sideLabels=00D4FF&dates=FFFFFF&currStreakNum=00FF41&sideNums=00D4FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -164,9 +154,6 @@ collaboration:
 ║   — Aahan Gajera, somewhere between epochs            ║
 ╚═══════════════════════════════════════════════════════╝
 ```
-
-<!-- Snake Contribution Animation -->
-![Snake animation](https://raw.githubusercontent.com/Aahan0605/Aahan0605/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:001a00&height=100&section=footer&fontColor=00ff41"/>
