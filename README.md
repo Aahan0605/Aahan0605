@@ -119,6 +119,29 @@ collaboration:
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+## `$ monitor --stats ./activity.log`
+
+<div align="center">
+
+<!-- Profile Views + Commits Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=aahan0605&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+![Commits](https://img.shields.io/github/commit-activity/m/aahan0605/aahan0605?color=00D4FF&style=for-the-badge&label=COMMITS+THIS+MONTH)
+
+<br/>
+
+<!-- GitHub Stats Card + Most Used Languages -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aahan0605&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00D4FF&text_color=FFFFFF&ring_color=00FF41)](https://github.com/aahan0605)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aahan0605&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF)](https://github.com/aahan0605)
+
+<br/>
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=aahan0605&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00D4FF&currStreakLabel=00FF41&sideLabels=00D4FF&dates=FFFFFF&currStreakNum=00FF41&sideNums=00D4FF)](https://git.io/streak-stats)
+
+</div>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ## `$ ping ./connections`
 
 
@@ -142,8 +165,8 @@ collaboration:
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-<!-- Visitor Counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=aahan0605&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117)
+<!-- Snake Contribution Animation -->
+![Snake animation](https://raw.githubusercontent.com/aahan0605/aahan0605/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:001a00&height=100&section=footer&fontColor=00ff41"/>
