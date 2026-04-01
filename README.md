@@ -27,6 +27,19 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+## `$ ping ./connections`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aahan%20Gajera-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0d1117)](https://linkedin.com/in/aahan-gajera)
+[![Email](https://img.shields.io/badge/Email-aahan060505@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117)](mailto:aahan060505@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-aahan0605-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117)](https://github.com/aahan0605)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-0d1117?style=for-the-badge&logo=firefox&logoColor=555555&labelColor=0d1117)](#)
+
+</div>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ## `$ whoami`
 
 ```python
@@ -137,20 +150,6 @@ collaboration:
 
 <!-- GitHub Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=aahan0605&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00D4FF&currStreakLabel=00FF41&sideLabels=00D4FF&dates=FFFFFF&currStreakNum=00FF41&sideNums=00D4FF)](https://git.io/streak-stats)
-
-</div>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## `$ ping ./connections`
-
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aahan%20Gajera-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0d1117)](https://linkedin.com/in/aahan-gajera)
-[![Email](https://img.shields.io/badge/Email-aahan060505@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117)](mailto:aahan060505@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aahan0605-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117)](https://github.com/aahan0605)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-0d1117?style=for-the-badge&logo=firefox&logoColor=555555&labelColor=0d1117)](#)
 
 </div>
 
