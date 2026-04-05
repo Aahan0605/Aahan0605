@@ -63,7 +63,7 @@ class Aahan:
 
 <div align="center">
 
-<img src="galaxy.svg" width="100%" alt="Tech Stack Galaxy — Animated Solar System"/>
+<img src="https://raw.githubusercontent.com/Aahan0605/Aahan0605/main/galaxy.svg" width="100%" alt="Tech Stack Galaxy — Animated Solar System"/>
 
 </div>
 
